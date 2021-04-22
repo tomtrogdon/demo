@@ -1,2 +1,3 @@
-# demo
-demo
+# Demo
+
+This is for a SIAM-UW demo
